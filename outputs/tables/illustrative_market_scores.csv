@@ -1,0 +1,7 @@
+district,population_mn,urban_share_pct,literacy_pct,asset_index,competitor_density,market_score,rank
+Market C,4.1,72,88,0.8,9,84.05555555555556,1
+Market F,2.9,80,90,0.77,12,72.22146739130434,2
+Market A,3.2,65,84,0.72,7,66.42391304347827,3
+Market E,3.6,58,82,0.68,5,64.72161835748793,4
+Market B,2.5,48,76,0.55,4,36.61126207729469,5
+Market D,1.8,35,70,0.48,3,15.0,6

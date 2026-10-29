@@ -1,0 +1,6 @@
+company,fy,revenue_mn,ebitda_mn,pat_mn,reported_ebitda_margin_pct,reported_pat_margin_pct,reported_roce_pct,calculated_ebitda_margin_pct,calculated_pat_margin_pct,revenue_growth_pct,ebitda_margin_difference,pat_margin_difference,growth_review_flag
+Jubilant FoodWorks,2022,43961,11088,4181,25.2,9.5,33.2,25.22,9.51,,0.02,0.01,False
+Jubilant FoodWorks,2023,51582,11516,3530,22.3,6.8,23.4,22.33,6.84,17.34,0.03,0.04,False
+Jubilant FoodWorks,2024,56551,11445,4008,20.2,7.1,12.7,20.24,7.09,9.63,0.04,-0.01,False
+Jubilant FoodWorks,2025,81045,15845,2171,19.6,2.7,14.5,19.55,2.68,43.31,-0.05,-0.02,True
+Jubilant FoodWorks,2026,95125,18878,4442,19.8,4.7,15.7,19.85,4.67,17.37,0.05,-0.03,False
