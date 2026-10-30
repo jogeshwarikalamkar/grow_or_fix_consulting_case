@@ -23,6 +23,24 @@ This project demonstrates a practical analytics workflow for business decision-m
 - Jupyter Notebook / Google Colab
 - SQL
 - Data cleaning and validation
+
+
+## Power BI Dashboard
+
+The Power BI dashboard presents an interactive view of financial performance and operational KPIs.
+
+**Dashboard components:**
+- Revenue trend (FY22–FY26)
+- EBITDA margin trend
+- PAT margin trend
+- Total Revenue, EBITDA, and PAT KPI cards
+- Total Orders KPI
+- Operations SLA breach analysis
+
+**Files:**
+- `powerbi/` — Editable Power BI dashboard (`.pbix`) and PDF export.
+
+**Note:** Financial and operational figures retain the data limitations described above.
 - KPI analysis and financial trend analysis
 - Weighted scoring and sensitivity analysis
 - Operations analytics and SLA monitoring
